@@ -21,17 +21,17 @@ public class Test {
     public static void main(String[] args) throws Exception {
         CodeGenerator codeGenerator = new CodeGenerator();  
         // String path = "/home/mamisoa/ITU/L3/Mr_Naina/TEST/test/src/main/java";
-        String path = "./";
+        String path = "./my_path";
         // String viewPath = "/home/mamisoa/ITU/L3/Mr_Naina/REACT/crud/src/components";
         
         // String path = "/home/mamisoa/ITU/L3/Mr_Naina/FRAMEWORK/testkarana/src/main/java";
-        String viewPath = "./";
+        String viewPath = "./my_path";
 
         // String path = "/home/mamisoa/ITU/L3";
         // String viewPath = "/home/mamisoa/ITU/L3";
 
 
-        String framework = "csharp:dotnet";
+        String framework = "java:spring-boot";
         String packageName = "com.ditrict";
         String entity = "entity";
         String controller = "controller";
