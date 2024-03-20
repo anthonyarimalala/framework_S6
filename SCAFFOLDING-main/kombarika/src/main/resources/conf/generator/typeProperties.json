@@ -46,6 +46,10 @@
                     "type":"BigInt",
                     "packageName":"java.math.BigInt"
                 },
+                "Long":{
+                    "type":"long",
+                    "packageName":""
+                },
                 "[B":{
                     "type":"Byte[]",
                     "packageName":""

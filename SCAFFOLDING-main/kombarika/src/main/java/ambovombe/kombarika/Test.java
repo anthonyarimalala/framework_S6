@@ -37,10 +37,11 @@ public class Test {
         String controller = "controller";
         String repository = "repository";
         String view = "";
-        String viewType = "react";
+        String viewType = "vue";
         String url = "http://localhost:8080";
         try{
-            // String[] tables = {"media_publication"};
+            //String[] tables = {"etudiants"};
+            
             // DbConnection dbConnection = codeGenerator.getDbConnection();
             // String str = dbConnection.getListConnection().get(dbConnection.getInUseConnection()).getDatabaseType().getForeignKeyQuery();
             // str = str.replace("?", "commune");
